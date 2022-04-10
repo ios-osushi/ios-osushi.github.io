@@ -168,3 +168,11 @@ footer {
         padding: 40px 20px;
     }
 }
+
+.share-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 5px;
+    column-gap: 5px;
+    margin-bottom: 10px;
+}
